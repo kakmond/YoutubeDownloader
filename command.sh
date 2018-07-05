@@ -1,10 +1,3 @@
-if [[ $1 =~ ^-.+ ]]
-then
-	echo "Invalid file path: $1"
-	exit 1
-fi
-
-
 if [ ! -f "${1}" ]; then
     	echo "Input file doesn't exist: ${1}"
   	exit 1
