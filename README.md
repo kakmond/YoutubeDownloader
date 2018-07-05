@@ -6,7 +6,7 @@ YoutubeDownloader is a shell script to download videos from YouTube.com and lets
 
 ### Prerequisites
 
-[Youtube-dl](https://github.com/rg3/youtube-dl) and [FFmpeg](https://www.ffmpeg.org/) should be installed and available in your PATH
+[Youtube-dl](https://github.com/rg3/youtube-dl) and [FFmpeg](https://ffmpeg.zeranoe.com/builds/) should be installed and available in your PATH
 
 ### Installing
 
