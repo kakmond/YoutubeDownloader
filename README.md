@@ -28,5 +28,5 @@ command.sh [file] [OPTIONS]
                         
 ### Example
 ```
-./command.sh sampleURLs.txt -f mp3 -o "/outputDir/"
+./command.sh sampleURLs.txt -f mp3 -o "outputDir/"
 ```
