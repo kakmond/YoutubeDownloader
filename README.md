@@ -21,12 +21,12 @@ command.sh [file] [OPTIONS]
 ```
 
 ### Options
-    -o [directory]     Output file name directory
+    -o [directory]     Output directory path
     -f [format]        Specify audio or video format: currently supported
                         "best", "aac","flac", "mp3", "m4a", "opus", "vorbis",
                         "wav", "mp4", "flv", "ogg", "webm", "mkv", "avi"
                         
 ### Example
 ```
-./command.sh sampleURLs.txt -f mp3 -o "outputDir/"
+./command.sh sampleURLs.txt -f mp3 -o outputDir/
 ```
